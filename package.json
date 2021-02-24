@@ -1,0 +1,22 @@
+{
+  "name": "SAReactNativeHussar",
+  "version": "0.0.1",
+  "private": false,
+  "description": "神策分析可视化全埋点功能排查工具",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sensors",
+    "analytics",
+    "神策",
+    "神策分析"
+  ],
+  "author": "pengyuanyang",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-dylan/SAReactNativeHussar.git"
+  },
+   "homepage": "https://github.com/dev-dylan/SAReactNativeHussar"
+}

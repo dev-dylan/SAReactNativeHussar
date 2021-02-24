@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.author       = { "Yuanyang Peng" => "pengyuanyang@sensorsdata.cn" }
   s.platform     = :ios, "9.0"
   s.source       = { :git => "https://github.com/sensorsdata/react-native-sensors-analytics.git", :tag => "v#{s.version}" }
-  s.source_files = "SAReactNativeHussar/*.{h,m}"
+  s.source_files = "ios/SAReactNativeHussar/*.{h,m}"
   s.requires_arc = true
   s.dependency   "React"
 
